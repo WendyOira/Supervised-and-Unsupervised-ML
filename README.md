@@ -1,8 +1,8 @@
 # Supervised and Unsupervised Machine Learning in R
 
 ## *Unsupervised Machine Learning Dataset*
--  Both projects were carried out in R and knit to pdf with the Unsupervised ML project having 174 pages and
-   the Supervised ML project having 77 pages
+   The Supervised ML project was knit to pdf and has 77 pages. The Unsupervised ML project was published to Rpubs
+   because of its size. This is the link to the project http://rpubs.com/Wendy_Oira/882362
 
 ## *Define the question*
 
