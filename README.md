@@ -1,6 +1,9 @@
 # Supervised and Unsupervised Machine Learning in R
 
 ## *Unsupervised Machine Learning Dataset*
+-  Both projects were carried out in R and knit to pdf with the Unsupervised ML project having 174 pages and
+   the Supervised ML project having 77 pages
+
 ## *Define the question*
 
 -   Learn the characteristics of customer groups of Kira Plastinina
