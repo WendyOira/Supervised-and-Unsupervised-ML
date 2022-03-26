@@ -86,3 +86,14 @@ click on her ads.
 6.  Perform unsupervised learning with several models
 
 7.  Recommendations and conclusions
+
+# *Technologies Used*
+
+R programming
+
+# *Contact Details*
+
+wendyoira@gmail.com
+
+# *License*
+[MIT](https://choosealicense.com/licenses/mit/)
